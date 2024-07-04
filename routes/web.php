@@ -19,7 +19,7 @@ Route::get('/', function () {
 });
 Route::get('/test',function(){
     $text=request()->text;
-    $text="check socket";
+    $text="check socket1";
     echo $text;
 
     event(new NewMessage($text));
