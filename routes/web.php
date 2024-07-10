@@ -24,3 +24,4 @@ Route::get('/test',function(){
 
     event(new NewMessage($text));
 });
+// =================
