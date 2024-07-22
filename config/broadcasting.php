@@ -44,8 +44,8 @@ return [
                 // 'useTLS' => env('PUSHER_SCHEME', 'https') === 'https',
                 'useTLS' => true,
                 'host' => '127.0.0.1',
-                'port' => 6002,
-                'scheme' => 'https'
+                'port' => 6001,
+                'scheme' => 'http'
 
             ],
             'client_options' => [

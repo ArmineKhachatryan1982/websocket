@@ -8,7 +8,7 @@
     },
     "devMode": true,
     "host": "85-159-209-35.ip.linodeusercontent.com",
-    "port": 6002,
+    "port": 6001,
     "protocol": "https",
     "socketio": {},
     "sslCertPath": "/etc/letsencrypt/live/85-159-209-35.ip.linodeusercontent.com/fullchain.pem",
